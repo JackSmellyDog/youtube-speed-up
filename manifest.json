@@ -4,8 +4,10 @@
   "description": "Speeds up youtube's videos by 1.5",
   "version": "0.0.1",
   "icons": {
-    "16": "images/icon-16.png",
-    "128": "images/icon-128.png"
+    "16": "images/16.png",
+    "32": "images/32.png",
+    "48": "images/48.png",
+    "128": "images/128.png"
   },
   "permissions": ["activeTab"],
   "background": {
@@ -19,8 +21,10 @@
   ],
   "action": {
     "default_icon": {
-      "16": "images/icon-16.png",
-      "128": "images/icon-128.png"
+      "16": "images/16.png",
+      "32": "images/32.png",
+      "48": "images/48.png",
+      "128": "images/128.png"
     }
   },
   "commands": {
